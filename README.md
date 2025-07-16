@@ -1,4 +1,4 @@
-# Analyzing-Crime-in-Los-Angeles
+# Analyzing-Crime-in-LosAngeles
 
 ## Explore the crimes.csv dataset and use your findings to answer the following questions:
 
